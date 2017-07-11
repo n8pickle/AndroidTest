@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Andorid Views and UIs</string>
+    <string name="toast">Make A Toast</string>
+    <string name="toast_string">Hello World!</string>
+    <string name="switch_text">Toast Type</string>
+    <string name="toast_string_2">Now we are getting somewhere</string>
+</resources>
